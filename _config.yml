@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Guang Liang (梁广)"
-  avatar           : "avatar.png"
+  avatar           : "images/avatar.png"
   bio              : "PhD Student at Nanjing University (LAMDA Lab) & Beijing Zhongguancun Academy. Research: Efficient LLM Training/Inference, Model Quantization."
-  location         : "Nanjing / Beijing, China"
-  employer         : "Nanjing University (LAMDA) & Beijing Zhongguancun Academy"
+  location         : "Nanjing & Beijing, China"
+  employer         : "Nanjing University (LAMDA)<br>Beijing Zhongguancun Academy"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=xSpogTYAAAAJ&hl"
   email            : "liangg@lamda.nju.edu.cn"

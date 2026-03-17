@@ -26,7 +26,7 @@ My research focuses on **efficient and generalizable AI systems**, particularly:
 
 ## 💼 Experience
 
-- **Shanghai AI Laboratory** - OpenDATALab Research Intern (Advisor: [Dr. Conghui He](https://github.com/conghuihe), Mentor: [Dr. Bin Wang](https://github.com/wangbin-dl))
+- **Shanghai AI Laboratory** - OpenDATALab Research Intern (Supervisor: [Dr. Conghui He](https://github.com/conghuihe), Mentor: [Dr. Bin Wang](https://github.com/wangbin-dl))
   - Led architecture innovations for [DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO) (2k+ ⭐)
   - Core contributor to [MinerU](https://github.com/opendatalab/MinerU) (55k+ ⭐): formula recognition & efficient VLM training
   - Co-first author of [UniMERNet](https://github.com/opendatalab/UniMERNet) (450+ ⭐): proposed R-S attention mechanism
@@ -44,7 +44,6 @@ My research focuses on **efficient and generalizable AI systems**, particularly:
 ## 📫 Contact
 
 - 📧 **Email**: liangg@lamda.nju.edu.cn
-- 📱 **Mobile**: +86 189-7573-2667
 - 🔗 **Links**: [Google Scholar](https://scholar.google.com/citations?user=xSpogTYAAAAJ&hl) | [GitHub](https://github.com/Salvatore-Love) | [LAMDA Homepage](https://www.lamda.nju.edu.cn/MainPage.ashx)
 
 ---
