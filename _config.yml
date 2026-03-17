@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guang Liang"
-  avatar           : "head.png"
-  bio              : "A student majored in Artificial Intelligence"
-  location         : "Xi'an"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Guang Liang (梁广)"
+  avatar           : "avatar.png"
+  bio              : "PhD Student at Nanjing University (LAMDA Lab) & Beijing Zhongguancun Academy. Research: Efficient LLM Training/Inference, Model Quantization."
+  location         : "Nanjing / Beijing, China"
+  employer         : "Nanjing University (LAMDA) & Beijing Zhongguancun Academy"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=xSpogTYAAAAJ&hl"
+  email            : "liangg@lamda.nju.edu.cn"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Salvatore-Love"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
